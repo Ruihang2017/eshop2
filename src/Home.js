@@ -11,24 +11,52 @@ function Home() {
                         alt="" className="home__image" />
                     <div className="home__row">
                         <Product
-                            id="12321341"
+                            id="1"
                             title="Bennett Mystic 15.6 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women(Blue)"
                             price={11.96}
                             rating={5}
                             image="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
                             alt="product-image" />
-                        <Product />
+                        <Product
+                            id="2"
+                            title="Bennett Mystic 15.6 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women(Blue)"
+                            price={1.12}
+                            rating={4}
+                            image="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
+                            alt="product-image" />
 
                     </div>
                     <div className="home__row">
-                        <Product />
-                        <Product />
-                        <Product />
-
+                        <Product
+                            id="3"
+                            title="Bennett Mystic 15.6 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women(Blue)"
+                            price={1.11}
+                            rating={3}
+                            image="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
+                            alt="product-image" />
+                        <Product
+                            id="4"
+                            title="Bennett Mystic 15.6 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women(Blue)"
+                            price={2.22}
+                            rating={2}
+                            image="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
+                            alt="product-image" />
+                        <Product
+                            id="5"
+                            title="Bennett Mystic 15.6 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women(Blue)"
+                            price={1.1}
+                            rating={1}
+                            image="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
+                            alt="product-image" />
                     </div>
                     <div className="home__row">
-                        <Product />
-
+                        <Product
+                            id="6"
+                            title="Bennett Mystic 15.6 inch Laptop Shoulder Messenger Sling Office Bag, Water Repellent Fabric for Men and Women(Blue)"
+                            price={0.1}
+                            rating={0}
+                            image="https://images-na.ssl-images-amazon.com/images/I/71mEsHyzSCL._SL1000_.jpg"
+                            alt="product-image" />
                     </div>
                 </div>
             </div>
